@@ -1,12 +1,12 @@
 # QAChallengesTrashDash
 
 **To Start Game**
-Game was run on Unity Version 2020.3.20f1
-Recommend downloading the same version to ensure compatibility
-Launch the game through Unity Hub by selecting the Trash Dash folder
-If not seen, be sure to select **Add** and navigate to the folder where the game has been downloaded
-In the **Project** tab in the bottom left window, navigate to the **Scenes** Folder and select the **Main** scene
-From there, press the Play button at the top of the screen and this should then launch the game
+Game was run on Unity Version 2020.3.20f1.
+I recommend downloading the same version to ensure compatibility.
+Launch the game through Unity Hub by selecting the Trash Dash folder.
+If not seen, be sure to select **Add** and navigate to the folder where the game has been downloaded.
+In the **Project** tab in the bottom left window, navigate to the **Scenes** Folder and select the **Main** scene.
+From there, press the Play button at the top of the screen and this should then launch the game.
 
 
 **To Find PDF:**
